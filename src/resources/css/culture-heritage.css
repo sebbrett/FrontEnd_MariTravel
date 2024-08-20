@@ -1,0 +1,121 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.5;
+}
+
+main {
+    flex: 1;
+    padding: 20px;
+}
+
+.filter-section {
+    margin-bottom: 20px;
+}
+
+.content-section {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.topic {
+    text-align: center;
+}
+
+/* Define the keyframes for the rainbow border effect */
+@keyframes rainbow-border {
+    0% {
+        border-color: red;
+    }
+
+    15% {
+        border-color: orange;
+    }
+
+    30% {
+        border-color: yellow;
+    }
+
+    45% {
+        border-color: green;
+    }
+
+    60% {
+        border-color: blue;
+    }
+
+    75% {
+        border-color: indigo;
+    }
+
+    90% {
+        border-color: violet;
+    }
+
+    100% {
+        border-color: red;
+    }
+}
+
+/* Apply the rainbow border effect to the image */
+.topic img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background-color: #ffffff;
+    border-radius: 30px;
+    border: 2px solid transparent;
+    /* Initial border setup */
+}
+
+.topic img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 1.0);
+
+    animation: rainbow-border 3s linear infinite;
+    /* Apply the rainbow border animation */
+}
+
+.topic img:active {
+    transform: scale(0.95);
+}
+
+.topic h3 {
+    margin: 10px;
+    font-size: 16px;
+    color: #009970;
+}
+
+
+.pagination {
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.pagination a {
+    margin: 0 5px;
+    color: #007bff;
+}
+
+.pagination a:hover {
+    color: red;
+}
+
+#other-states-btn1 {
+    border: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 9px 20px;
+    transition: 0.3s background-color;
+    cursor: pointer;
+    background-color: #36b3c9;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+ }

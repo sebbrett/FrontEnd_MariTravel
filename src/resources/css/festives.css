@@ -1,0 +1,159 @@
+#intro-img-container {
+    position: relative;
+    height: 500px;
+ }
+ #intro-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+ }
+ 
+ #intro-overlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    bottom: 0px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+ }
+
+ #intro-overlay h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+ }
+header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+h2 {
+    text-align: center;
+    color: #36b3c9;;
+}
+
+section {
+    padding: 20px;
+}
+
+.featured-festivals {
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.festival-card 
+{
+    background-color: #f4f4f4;
+    border-color: #36b3c9;
+    border-width: 2px;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: justify;
+    text-align-last: center;
+    margin:0 auto;
+    hyphens: auto;
+    width: 30%;
+    
+}
+
+.festival-card p{
+    color:black !important;
+}
+
+.festival-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    display: block;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.festival-card img:hover{
+    transform: translateY(-10px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.5);
+}
+#nDanch {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 60%;
+    margin: 20px auto; 
+    padding: 10px;     
+    box-sizing: border-box;
+  }
+  
+  #nDanch img {
+    max-width: 100%; 
+    height: auto;   
+   
+  }
+
+  #upcomeEvent {
+    margin-bottom: 20px;
+  }
+
+#nDimg {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    animation: pulse 2s infinite;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#upcomingEvent h2,p{
+    text-align: center;
+}
+
+#uE-h {
+    align-items: center;
+}
+#currency_converter{
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+    height: auto;      
+  
+}
+
+@keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.05); 
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+@media (max-width: 1000px) {
+    .featured-festivals {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .festival-card {
+        width: 90%;
+        margin-bottom: 14px;
+    }
+}
+

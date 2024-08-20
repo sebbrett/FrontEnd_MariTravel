@@ -1,0 +1,185 @@
+#login-container {
+   margin-top: 20px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 40px;
+   font-family: 'Poppins', sans-serif;
+   padding-left: 40px;
+   padding-right: 40px;
+}
+
+#login-pane {
+   display: flex;
+   flex-direction: column;
+   align-items: flex-start;
+   gap: 5px;
+}
+
+#mari-travel {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   height: 70px;
+
+   p {
+      color: black;
+      font-size: 35px;
+      font-weight: bold;
+   }
+
+   #mari-travel-logo {
+      width: 40px;
+      height: 40px;
+   }
+}
+
+#sign-in-form {
+   display: flex;
+   flex-direction: column;
+   gap: 10px;
+   width: 100%;
+}
+
+#email-input,
+#password-input {
+   box-sizing: border-box;
+   width: 100%;
+   border-radius: 10px;
+   border-color: lightgrey;
+   border-style: solid;
+   padding: 15px;
+   font-size: medium;
+}
+
+#password-container {
+   position: relative;
+}
+
+#show-password {
+   position: absolute;
+   top: 20px;
+   right: 14px;
+   cursor: pointer;
+   color: lightgray;
+}
+
+#sign-in-btn {
+   width: 100%;
+   border-radius: 10px;
+   background-color: rgb(35, 192, 103);
+   color: white;
+   border-style: none;
+   padding: 15px;
+   font-size: medium;
+   font-weight: bold;
+   cursor: pointer;
+   transition: all 0.2s ease;
+}
+
+#sign-in-btn:hover {
+   opacity: 0.6;
+}
+
+#sign-in-btn:active {
+   outline: none;
+   border-style: solid;
+   border-color: black;
+   border-width: 1px;
+}
+
+#error-message {
+   color: rgb(230, 75, 75);
+}
+
+#not-member-label {
+   color: rgb(123, 121, 121);
+   transition: all 0.2s ease;
+}
+
+#not-member-label:hover {
+   color: black;
+   cursor: pointer;
+   text-decoration: underline;
+}
+
+#not-member-label:active {
+   opacity: 0.5;
+}
+
+#divider {
+   width: 100%;
+   display: flex;
+   align-items: center;
+   text-align: center;
+   margin: 20px 0;
+   /* Adjust the margin as needed */
+   color: #757575;
+   /* Color of the text */
+}
+
+#divider::before,
+#divider::after {
+   content: '';
+   flex: 1;
+   border-bottom: 1px solid #757575;
+   /* Adjust the color and thickness of the line */
+}
+
+#divider::before {
+   margin-right: 10px;
+   /* Space between the line and text */
+}
+
+#divider::after {
+   margin-left: 10px;
+   /* Space between the text and line */
+}
+
+#login-with-others-container {
+   width: 100%;
+   display: flex;
+   justify-content: flex-start;
+}
+
+.login-with-other-btn {
+   width: 120px;
+   height: 50px;
+   display: flex;
+   align-items: center;
+   border-radius: 10px;
+   background-color: white;
+   font-weight: bold;
+   cursor: pointer;
+   transition: all 0.2s ease;
+   border-width: 1px;
+   border-style: solid;
+}
+
+.login-with-other-btn:hover {
+   opacity: 0.6;
+}
+
+.login-with-other-btn:active {
+   background-color: #757575;
+}
+
+#google-logo {
+   width: 40px;
+   height: 40px;
+}
+
+#deco-img {
+   width: 500px;
+   height: 640px;
+   object-fit: cover;
+   border-radius: 15px;
+}
+
+@media(max-width: 991px) {
+   #deco-img {
+      display: none;
+   }
+}

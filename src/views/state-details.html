@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>MariTravel - Go where? Eat what?</title>
+    <link rel="stylesheet" href="../resources/css/main.css">
+    <link rel="stylesheet" href="/src/resources/css/header-footer.css">
+    <script type="module" src="header-footer.js"></script>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .row {
+            display: flex;
+            flex-wrap: wrap;
+            margin: 0 7%;
+        }
+
+        .column {
+            flex: 1 1 25%;
+            padding: 0 10px;
+        }
+
+        .card {
+            border-radius: 8px;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            padding: 16px;
+            text-align: center;
+            background-color: #f1f1f1;
+            margin-bottom: 20px;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+            box-shadow: 0 20px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        .card img {
+            width: 100%;
+            height: 500px;
+            object-fit: cover;
+        }
+
+        @media screen and (max-width: 600px) {
+            .column {
+                flex: 1 1 100%;
+            }
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.4);
+        }
+
+        .modal-content {
+            border-radius: 8px;
+            background-color: #fefefe;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 70%;
+            /* Ensuring modal width is consistent */
+            /* max-width: 600px;  */
+            margin: auto;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            max-height: 90vh;
+            overflow: hidden;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            display: flex;
+            flex-direction: row;
+            /* Align children in a row */
+        }
+
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        #state-places {
+            padding-left: 7%;
+        }
+
+        #places-desc {
+            padding-left: 7%;
+            padding-right: 7%;
+            padding-bottom: 2%;
+        }
+
+        #state-food {
+            padding-right: 7%;
+        }
+
+        #food-desc {
+            padding-left: 7%;
+            padding-right: 7%;
+            padding-bottom: 2%;
+        }
+
+        /* Modal content styles */
+        .modal-content img {
+            width: 50%;
+            /* Picture on the left */
+            height: auto;
+            margin-right: 20px;
+        }
+
+        .modal-text {
+            display: flex;
+            flex-direction: column;
+            /* Stack description and map vertically */
+            width: 50%;
+            /* Text and map on the right */
+        }
+
+        #modal-description {
+            margin-bottom: 20px;
+        }
+
+        #modal-map {
+            height: 200px;
+            /* Adjust height for map */
+            width: 100%;
+        }
+
+        .button-68 {
+            appearance: none;
+            backface-visibility: hidden;
+            background-color: #27ae60;
+            border-radius: 8px;
+            border-style: none;
+            box-shadow: rgba(39, 174, 96, .15) 0 4px 9px;
+            box-sizing: border-box;
+            color: #fff;
+            cursor: pointer;
+            display: inline-block;
+            font-family: Inter, -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
+            font-size: 16px;
+            font-weight: 600;
+            letter-spacing: normal;
+            line-height: 1.5;
+            outline: none;
+            overflow: hidden;
+            padding: 13px 20px;
+            position: relative;
+            text-align: center;
+            text-decoration: none;
+            transform: translate3d(0, 0, 0);
+            transition: all .3s;
+            user-select: none;
+            -webkit-user-select: none;
+            touch-action: manipulation;
+            vertical-align: top;
+            white-space: nowrap;
+        }
+
+        .button-68:hover {
+            background-color: #1e8449;
+            opacity: 1;
+            transform: translateY(0);
+            transition-duration: .35s;
+        }
+
+        .button-68:active {
+            transform: translateY(2px);
+            transition-duration: .35s;
+        }
+
+        .button-68:hover {
+            box-shadow: rgba(39, 174, 96, .2) 0 6px 12px;
+        }
+    </style>
+</head>
+
+<body>
+    <my-header></my-header>
+    <main style="background-color: white">
+
+        <h1 id="state-name" style="text-align: center; padding: 5%;"></h1>
+
+        <h2 class="titles" id="state-places">Places<br></h2>
+        <p id="places-desc"></p>
+        <div id="card-container" class="row"></div>
+
+        <h2 class="titles" id="state-food" style="text-align: right;">Makan<br></h2>
+        <p id="food-desc" style="text-align: right;"></p>
+        <div id="food-container" class="row"></div>
+
+        <div id="myModal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <img id="modal-image" src="" alt="picture">
+                <div class="modal-text">
+                    <p id="modal-description">Some text in the Modal..</p>
+                    <div id="modal-map">dsf</div>
+                    <button class="button-68" role="button">Button 68</button>
+                </div>
+            </div>
+        </div>
+
+    </main>
+    <script src="state-loader.js"></script>
+    <my-footer></my-footer>
+</body>
+
+</html>

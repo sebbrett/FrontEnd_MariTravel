@@ -1,0 +1,114 @@
+{
+    "Johor": [
+        {
+            "title": "The Red House Johor Bahru",
+            "image": "/src/resources/images/The-Red-House-Johor-Bahru.jpg",
+            "description": "Johor’s cultural heritage is a vibrant tapestry of traditional Malay customs interwoven with influences from the Chinese, Indian, and Javanese communities. The state’s royal history is deeply embedded in its identity, with the Johor Sultanate being one of the most prominent in Malaysia. Traditional royal ceremonies, such as the Sultan’s coronation, are grand events reflecting Johor’s rich heritage. The state is also known for its traditional dance forms like Zapin, a dance that originated from the Middle East and was brought to Johor in the 14th century. The Kuda Kepang dance, rooted in Javanese traditions, is another cultural treasure, often performed during religious festivals and community celebrations."
+        }
+    ],
+    "Kedah": [
+        {
+            "title": "Balai Besar Kedah",
+            "image": "/src/resources/images/balai-besar-kedah.jpg",
+            "description": "Kedah, often referred to as the “Rice Bowl of Malaysia,” boasts a cultural heritage closely tied to its history as the oldest kingdom in Malaysia, with evidence of human settlement dating back over 2,000 years. Traditional Malay culture is omnipresent, reflected in the state’s customs, festivals, and arts. Kedah is also renowned for its royal traditions, with the Kedah Sultanate being one of the longest continuous hereditary monarchies in the world. Historical sites like the Balai Besar, a royal audience hall built in the 18th century, highlight the grandeur of the state’s past. The traditional crafts of Kedah, such as songket weaving, are intricate and symbolic, often representing status and wealth in Malay society."
+        }
+    ],
+    "Kelantan": [
+        {
+            "title": "Wayang Kulit",
+            "image": "/src/resources/images/wayang-kulit-kelantan.jpg",
+            "description": "Kelantan is often referred to as the “Cradle of Malay Culture” due to its strong preservation of traditional arts and customs. The state is famous for its traditional performances like Wayang Kulit, a form of shadow puppetry that tells epic stories of gods, demons, and legendary heroes. Another key aspect of Kelantan’s cultural heritage is Mak Yong, a traditional dance-drama that is believed to be over 1,000 years old and was recognized by UNESCO as a Masterpiece of the Oral and Intangible Heritage of Humanity. Kelantan is also known for its Wau Bulan (moon kite) making, a craft that requires exceptional skill and is a significant part of the state's cultural identity. The state's rich artistic traditions are often passed down through generations, preserving Kelantan's unique cultural landscape."
+        }
+    ],
+    "Malacca": [
+        {
+            "title": "A Famosa",
+            "image": "/src/resources/images/a-famosa-melaka.jpg",
+            "description": "Malacca’s cultural heritage is a unique blend of Malay, Chinese, Indian, and European influences, a result of its strategic location as a historical trading port. The Peranakan culture, which emerged from the intermarriage between Chinese immigrants and local Malays, is one of Malacca's most distinctive cultural aspects. This cultural fusion is evident in the state's cuisine, traditional clothing, and architecture, particularly in the well-preserved Peranakan shophouses and ancestral homes. Malacca is also home to numerous historical sites like A Famosa, a Portuguese fortress built in the 16th century, and the Dutch Square, which showcases the state's colonial history. The state’s festivals, such as the Peranakan Baba Nyonya Festival, highlight the rich cultural tapestry that has been preserved over centuries."
+        }
+    ],
+    "Negeri Sembilan": [
+        {
+            "title": "Adat Perpatih",
+            "image": "/src/resources/images/adat-perpatih-ns.jpg",
+            "description": "Negeri Sembilan is unique in Malaysia for its adherence to Adat Perpatih, a matrilineal system of customs brought by the Minangkabau people from Sumatra in the 14th century. This system influences various aspects of life in Negeri Sembilan, including land inheritance, marriage, and social structure, where property is passed down through the female line. The state's cultural heritage is also reflected in its architecture, particularly in the traditional Minangkabau houses with their distinctive horn-shaped roofs, symbolizing the buffalo horns of Minangkabau legend. Negeri Sembilan is also known for its traditional music and dance, such as the Caklempong ensemble, which plays an important role in community events and ceremonies."
+        }
+    ],
+    "Pahang": [
+        {
+            "title": "Taman Negara",
+            "image": "/src/resources/images/taman-negara-pahang.jpg",
+            "description": "Pahang’s cultural heritage is intricately connected to its natural environment, with traditions that celebrate the state’s lush rainforests, rivers, and mountainous terrain. The Orang Asli, the indigenous people of Pahang, have a rich cultural heritage that includes traditional crafts such as weaving, beadwork, and wood carving. These crafts are not just artistic expressions but are also deeply rooted in the community’s spiritual beliefs and practices. Pahang is also known for its traditional Malay crafts, including the weaving of Pahang silk, a luxurious fabric that has been prized for centuries. The state's festivals, such as the Pesta Air (Water Festival) in the riverine areas, are vibrant celebrations of Pahang’s natural bounty and cultural traditions."
+        }
+    ],
+    "Penang": [
+        {
+            "title": "George Town Heritage",
+            "image": "/src/resources/images/georgetown-penang.jpg",
+            "description": "Penang’s cultural heritage is a vibrant reflection of its historical role as a key trading port in Southeast Asia. The state's rich history is evident in the architecture of George Town, where traditional shophouses stand alongside colonial-era buildings. The Peranakan or Straits Chinese culture is particularly prominent in Penang, with its unique customs, cuisine, and attire. The state's multicultural heritage is celebrated through its diverse festivals, such as the George Town Festival, which showcases a blend of traditional and contemporary arts. Penang is also renowned for its street art, which has become an integral part of its cultural landscape, depicting the everyday life and historical narratives of the city."
+        }
+    ],
+    "Perak": [
+        {
+            "title": "Ipoh Town Hall",
+            "image": "/src/resources/images/ipoh-town-hall-perak.jpg",
+            "description": "Perak’s cultural heritage is deeply influenced by its history as a major tin mining state during the British colonial era. The wealth generated from tin mining led to the construction of grand colonial buildings in towns like Ipoh, which still stand as symbols of Perak’s prosperous past. The state's traditional arts, such as labu sayong (clay water pitchers) and silver crafting, are significant aspects of its cultural identity, reflecting the skills passed down through generations. Perak’s diverse population, comprising Malay, Chinese, and Indian communities, contributes to a rich cultural landscape where traditional festivals, customs, and cuisines blend harmoniously. The state's historical landmarks, including the royal town of Kuala Kangsar, highlight Perak’s cultural and royal heritage."
+        }
+    ],
+    "Perlis": [
+        {
+            "title": "Kota Kayang Museum",
+            "image": "/src/resources/images/kota-kayang-museum-perlis.jpg",
+            "description": "Perlis, the smallest state in Malaysia, has a cultural heritage closely tied to its royal traditions and agricultural practices, particularly rice farming. The state's traditional crafts, such as mengkuang weaving and pottery, are integral to its cultural identity and are often showcased in local festivals and exhibitions. Perlis is also known for its unique festivals and customs, such as the annual Perlis Harvest Festival, which celebrates the end of the rice planting season with traditional music, dance, and food. The state’s historical sites, like the Kota Kayang Museum, provide insights into Perlis' royal history and the influence of neighboring regions like Thailand on its cultural practices."
+        }
+    ],
+    "Sabah": [
+        {
+            "title": "Kadazan-Dusun Culture",
+            "image": "/src/resources/images/kadazan-dusun-culture.jpg",
+            "description": "Sabah’s cultural heritage is a rich tapestry of traditions from its diverse indigenous groups, including the Kadazan-Dusun, Murut, and Bajau. The state's vibrant festivals, such as the Kaamatan harvest festival, celebrate its agricultural roots and are marked by traditional music, dance, and rituals. The Kadazan-Dusun people, the largest indigenous group in Sabah, have a rich cultural heritage that includes traditional crafts such as beadwork and bamboo weaving, as well as the intricate gong music that accompanies many of their ceremonies. The state's connection to the natural environment is also evident in its traditional practices, such as rice cultivation in the terraced fields of the interior highlands. Sabah’s cultural heritage is a reflection of its deep connection to the land and its spiritual beliefs."
+        }
+    ],
+    "Sarawak": [
+        {
+            "title": "Sarawak Cultural Village",
+            "image": "/src/resources/images/sarawak-culture-vilage.webp",
+            "description": "Sarawak’s cultural heritage is incredibly diverse, with over 40 ethnic groups contributing to its rich traditions. The state's traditional longhouses, which serve as communal living spaces for entire villages, are central to Sarawak’s cultural identity. Each ethnic group in Sarawak has its own unique customs, music, dance, and crafts, which are often showcased in the state's festivals, such as the Gawai Dayak harvest festival. The Sarawak Cultural Village, located near the state capital of Kuching, is a living museum where visitors can experience the traditional lifestyles of Sarawak's various ethnic communities. The village hosts cultural performances and craft demonstrations, providing a window into the state’s vibrant cultural heritage."
+        }
+    ],
+    "Selangor": [
+        {
+            "title": "Batu Caves",
+            "image": "/src/resources/images/batu-caves-selangor.jpg",
+            "description": "Selangor’s cultural heritage is a blend of traditions from its diverse population, including Malay, Chinese, Indian, and indigenous communities. The state's historical sites, such as Batu Caves, a limestone hill with a series of caves and cave temples, are significant cultural landmarks that attract visitors from around the world. Batu Caves is also the site of the annual Thaipusam festival, one of the most important Hindu festivals in Malaysia, where devotees carry kavadis (burdens) as a form of penance. Selangor's vibrant arts scene is reflected in its traditional music, dance, and crafts, which continue to play an essential role in the state's cultural identity despite its rapid modernization. The state’s cultural heritage is a testament to the harmonious coexistence of different cultures and religions."
+        }
+    ],
+    "Terengganu": [
+        {
+            "title": "Traditional Boat Building in Pulau Duyong",
+            "image": "/src/resources/images/boat-building-terengganu.jpg",
+            "description": "Terengganu’s cultural heritage is deeply connected to the sea, with traditional boat building, fishing, and maritime trade being central to its history. The state is famous for its traditional textiles, such as batik and songket, which are known for their intricate designs and vibrant colors. The art of boat building in Terengganu, particularly on Pulau Duyong, is a centuries-old tradition that has been passed down through generations. These boats, known as perahu, are crafted using traditional methods and are a symbol of the state's maritime heritage. Terengganu is also known for its traditional kite flying, with the Wau Bulan (moon kite) being a popular cultural icon. The state's festivals, such as the Terengganu Peranakan Festival, celebrate the fusion of local and foreign cultures that have shaped Terengganu’s unique identity."
+        }
+    ],
+    "WP Kuala Lumpur": [
+        {
+            "title": "Sultan Abdul Samad Building",
+            "image": "/src/resources/images/sultan-abdulsamad-building.jpg",
+            "description": "Kuala Lumpur, the capital city of Malaysia, is a melting pot of cultures, with a rich history that reflects the nation’s diverse heritage. The city’s cultural landmarks, such as Merdeka Square, where Malaysia’s independence was declared in 1957, are significant symbols of the country’s journey to nationhood. Kuala Lumpur is also home to a vibrant arts scene, with traditional and contemporary performances held in venues across the city. The city’s multicultural heritage is celebrated through its diverse festivals, such as the Kuala Lumpur International Arts Festival, which showcases the best of Malaysian and international art. Kuala Lumpur’s architectural heritage is also notable, with a mix of colonial-era buildings, traditional Malay houses, and modern skyscrapers reflecting the city’s dynamic cultural landscape."
+        }
+    ],
+    "WP Labuan": [
+        {
+            "title": "Labuan War Cemetery",
+            "image": "/src/resources/images/labuan-war-cemetery.jpg",
+            "description": "Putrajaya, the administrative capital of Malaysia, is a city that blends modernity with traditional Islamic architecture. The city’s design reflects Malaysia’s cultural heritage, with its grand mosques, government buildings, and landscaped gardens inspired by traditional Malay and Islamic motifs. Putrajaya is also home to the annual Putrajaya International Islamic Arts Festival, which celebrates the rich tradition of Islamic art and culture. The city’s cultural heritage is also reflected in its commitment to preserving Malaysia’s natural environment, with extensive parks and wetlands integrated into the city’s design. Putrajaya is a symbol of Malaysia’s vision for the future, where modernity and tradition coexist in harmony"
+        }
+    ],
+    "WP Putrajaya": [
+        {
+            "title": "Putra Mosque",
+            "image": "/src/resources/images/putra-mosque.jpg",
+            "description": "Labuan’s cultural heritage is closely linked to its history as a strategic trading port and its role during World War II. The island is known for its historical sites, such as the Labuan War Cemetery, which is the largest war grave in Malaysia and a significant symbol of the island’s wartime history. Labuan’s multicultural heritage is reflected in its festivals, such as the Labuan International Sea Challenge, which celebrates the island’s maritime traditions. The island is also known for its traditional crafts, such as the weaving of pandanus mats and baskets, which are often sold at local markets. Labuan’s cultural heritage is a reflection of its strategic importance as a gateway to Borneo and its diverse population, which includes Malay, Chinese, Indian, and indigenous communities."
+        }
+    ]
+}

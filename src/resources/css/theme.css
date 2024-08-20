@@ -1,0 +1,18 @@
+/* Default Light Theme Styles */
+body {
+    background-color: white;
+    color: #2a2a2b;
+}
+
+/* Dark Theme Styles */
+body.dark-theme {
+    background-color: #2a2a2b;
+    color: white;
+}
+
+
+#theme-toggle{
+   border-radius:10px;
+   background-color: rgba(255, 255, 255, 0.3);
+}
+

@@ -1,0 +1,978 @@
+[
+    {
+        "state-name": "Perak",
+        "descriptions": 
+            {
+                "placesdesc": "Perak is known for its historical sites and natural beauty, reflecting its rich cultural and historical heritage. Notable attractions include the impressive Taiping Lake Gardens, the ancient Kek Lok Tong Cave Temple, the charming Perak Cave Temple, and the historic Kellie’s Castle, each offering a unique glimpse into the state’s past and scenic landscapes.",
+                "fooddesc": "Perak’s culinary scene is a flavorful mix of traditional Malay, Chinese, and Indian dishes that highlight the state's diverse heritage. Popular offerings include the savory Ipoh Hor Fun, known for its silky noodles and rich broth, the spicy and aromatic Nasi Kandar, and the crispy and flavorful Penang-style Char Koay Teow, each providing a delicious taste of Perak’s local food culture."
+            },
+        "places": [
+            {
+                "title": "Kellie's Castle",
+                "image": "/src/resources/images/kcastle.png",
+                "modalDescription": "Kellie's Castle is a historic and mysterious mansion located near Batu Gajah in the state of Perak, Malaysia. It was built by a Scottish planter named William Kellie Smith in the early 20th century. The structure is an intriguing blend of Scottish, Moorish, and Indian architectural styles, reflecting Kellie's diverse influences and grand vision.\n\nThe castle was intended as a symbol of wealth and success, but it was never completed due to Kellie's sudden death in 1926 and subsequent financial difficulties. Today, the castle stands as a partially finished relic, with its abandoned hallways, grand arches, and rooftop offering panoramic views of the surrounding landscape.\n\nOne of the most fascinating features of Kellie's Castle is its connection to various legends and ghost stories, making it a popular destination for tourists and history enthusiasts alike. Visitors can explore the eerie corridors, discover hidden rooms, and imagine what life might have been like if the castle had been completed as originally intended.",
+                "stateDescription": "A mysterious, unfinished mansion blending various architectural styles, rumored to be haunted.",
+                "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3977.654375379142!2d101.0848528749779!3d4.47516129549915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31caef5e78817aa9:0x93bc5c7d6ecd82ba!2sKellie&#39;s%20Castle!5e0!3m2!1sen!2smy!4v1723779248171!5m2!1sen!2smy"
+            },
+            {
+                "title": "Taiping Lake Gardens",
+                "image": "/src/resources/images/lakegarden.png",
+                "modalDescription": "Taiping Lake Gardens, located in Taiping, Perak, is one of Malaysia's oldest and most picturesque public gardens. Originally a tin mining site, the area was transformed into a lush, green oasis in 1880, making it a beloved recreational spot for locals and visitors alike. The gardens cover an expansive 62 hectares and are surrounded by rolling hills and the majestic Bukit Larut (Maxwell Hill), adding to the serene atmosphere. The centerpiece of the gardens is a series of tranquil lakes, fed by natural springs from the nearby hills. The shimmering waters reflect the vibrant greenery, creating a picture-perfect scene that changes with the light throughout the day. Surrounding the lakes, you will find well-maintained pathways lined with ancient, towering rain trees, whose branches gracefully stretch over the roads and walkways, forming a natural canopy.",
+                "stateDescription": "Malaysia's oldest public garden, renowned for its serene lakes and century-old rain trees.",
+                "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7951.036049275234!2d100.74377359122614!3d4.852475830492594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31caaef8455166a1:0xe23eb972758df56d!2sTaiping%20Lake%20Gardens!5e0!3m2!1sen!2smy!4v1723774900893!5m2!1sen!2smy"
+            },
+            {
+                "title": "Menara Condong Teluk Intan",
+                "image": "/src/resources/images/menara.png",
+                "modalDescription": "Menara Condong Teluk Intan, also known as the Leaning Tower of Teluk Intan, is a historical landmark located in the town of Teluk Intan in Perak, Malaysia. This unique structure was built in 1885 by a Chinese contractor named Leong Choon Chong. The tower stands at approximately 25.5 meters tall and has a distinctive slant, earning it the nickname Malaysia's Pisa. Originally constructed as a water tower to supply the town with water during droughts, the Menara Condong also served as a clock tower. The octagonal tower, made from bricks and wood, has three stories and features a helical staircase that spirals around its interior. Over time, the soft ground on which it was built caused the tower to lean to one side, giving it its famous tilt. Today, the Menara Condong is a popular tourist attraction and a symbol of Teluk Intan, drawing visitors from around the country to marvel at its unique architecture and historical significance.",
+                "stateDescription": "A historic, leaning tower from 1885 in Perak, Malaysia, often compared to the famous Pisa.",
+                "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3979.976604648268!2d101.01681977497537!3d4.025184495948549!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cb1504ba043d4f:0x42ac164a6cf576!2sMenara%20Condong%20Teluk%20Intan!5e0!3m2!1sen!2smy!4v1723793414955!5m2!1sen!2smy"
+            },
+            {
+                "title": "Gua Tempurung",
+                "image": "/src/resources/images/Gua_Tempurung.jpg",
+                "modalDescription": "Gua Tempurung is one of the largest limestone cave systems in Peninsular Malaysia, located in Perak. Spanning nearly 4.5 kilometers, the cave is renowned for its impressive stalactites and stalagmites, which have formed over millions of years. The cave also holds significant archaeological importance, with evidence of prehistoric human activity discovered within its chambers. Visitors can explore the cave through guided tours, with options ranging from easy walks to more adventurous, longer treks that delve deep into the cave's interior. Gua Tempurung is a popular destination for spelunkers, nature enthusiasts, and anyone interested in the natural and historical wonders of Malaysia.",
+                "stateDescription": "A vast limestone cave in Perak, Malaysia, famous for its ancient rock formations and archaeological finds.",
+                "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3977.973653854588!2d101.18511027462763!3d4.416009395558148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cafb14dbb8742d:0xacb03b8d7a0bcea2!2sGua%20Tempurung!5e0!3m2!1sen!2smy!4v1723793626104!5m2!1sen!2smy"
+            }
+        ],
+        "foods": [
+            {
+                "title": "Restoran New Hollywood",
+                "image": "/src/resources/images/newhollywood.jpg",
+                "modalDescription": "Restoran New Hollywood, located in Ipoh, is a bustling eatery celebrated for its wide array of hawker-style dishes. From the famous Chee Cheong Fun to perfectly toasted bread with half-boiled eggs, this spot captures the essence of Ipoh's vibrant food culture. The restaurant is also renowned for its traditional Ipoh white coffee, making it a favorite breakfast or brunch destination for both locals and tourists. The lively atmosphere and variety of food options make it a must-visit for anyone looking to experience the authentic flavors of Ipoh.",
+                "stateDescription": "A popular Ipoh eatery known for its diverse hawker food, including Chee Cheong Fun and Ipoh white coffee.",
+                "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.953612213!2d101.1065580749787!3d4.60233049537233!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31caecf903f6006d:0x86f5e72973276e1e!2sRestoran%20New%20Holly%20Wood!5e0!3m2!1sen!2smy!4v1723808645078!5m2!1sen!2smy"
+            },
+            {
+                "title": "Nasi Ganja Yong Suan",
+                "image": "/src/resources/images/ganja.jpg",
+                "modalDescription": "Nasi Ganja Yong Suan, also known as Nasi Kandar Ayam Merah, is an iconic food destination in Ipoh, Perak. This humble restaurant has gained fame for its addictive Nasi Kandar, a dish characterized by steamed rice served with a variety of curries and sides. The highlight is the 'ganja' curry, a potent and flavorful blend of spices that keeps customers coming back, earning the dish its nickname. Often crowded, this place is a must-visit for food lovers seeking to taste the best of Ipoh's culinary offerings.",
+                "stateDescription": "A legendary Ipoh spot famous for its flavorful Nasi Kandar with a unique 'ganja' curry.",
+                "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3977.0074413581797!2d101.07983527649932!3d4.592686583474568!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31caed36fcb707fd:0xc6e9314f08d15f72!2sNasi%20Ganja%20Ipoh%20(%20Nasi%20Kandar%20ayam%20Merah)!5e0!3m2!1sen!2smy!4v1723809506930!5m2!1sen!2smy"
+            },
+            {
+                "title": "Kong Heng Restaurant",
+                "image": "/src/resources/images/kongheng.jpg",
+                "modalDescription": "Kong Heng Restaurant, situated in the heart of Ipoh’s Old Town, is a beloved spot known for serving authentic and traditional Malaysian-Chinese cuisine. The restaurant’s rustic charm and historic setting add to the dining experience, where patrons can savor dishes like Char Kway Teow, Popiah, and the famously rich Beef Noodles. The vibrant and somewhat vintage atmosphere draws both locals and tourists, making it a cultural and culinary landmark in Ipoh. Kong Heng is the perfect place to experience the rich history and flavors of Ipoh.",
+                "stateDescription": "A nostalgic Ipoh restaurant offering classic local dishes like Char Kway Teow and Beef Noodles.",
+                "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127263.56760552077!2d100.93780771640623!3d4.596443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31caec7c36be013d:0xbddfc3c707108003!2sRestoran%20Ipoh%20Kong%20Heng!5e0!3m2!1sen!2smy!4v1723809690014!5m2!1sen!2smy"
+            },
+            {
+                "title": " Larut Matang Hawker Centre",
+                "image": "/src/resources/images/matang.jpg",
+                "modalDescription": "Larut Matang Hawker Centre, located in the heart of Taiping, is a vibrant food court that serves as a gathering spot for locals and tourists alike. The center is renowned for its diverse selection of local delicacies, such as Char Kway Teow, Prawn Mee, and Cendol. With numerous stalls offering a range of dishes, it provides an excellent opportunity to sample a variety of Malaysian flavors in one location. The bustling atmosphere, combined with the wide choice of food, makes Larut Matang Hawker Centre a must-visit destination for anyone exploring Taiping's culinary scene.",
+                "stateDescription": " A popular food hub in Taiping offering a wide variety of local delicacies, including Char Kway Teow and Prawn Mee.",
+                "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3975.5334785181763!2d100.73824767498022!3d4.849851595125766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31caaef62de13bdd:0x39fb2dc526538110!2sLarut%20Matang%20Hawker%20Center%20(Food%20Court)!5e0!3m2!1sen!2smy!4v1723810324773!5m2!1sen!2smy"
+            }
+        ]
+    },
+    {
+        "state-name": "Penang",
+        "descriptions": 
+            {
+                "placesdesc": "Penang is celebrated for its rich cultural heritage and historic landmarks, blending influences from its diverse past. Key attractions include the Penang War Museum, which offers a glimpse into Malaysia's military history, the vibrant Hin Bus Depot known for contemporary art, the stunning Kek Lok Si Temple with its grand architecture, and Penang Hill, providing breathtaking panoramic views and a serene escape from the city.",
+                "fooddesc": "Penang is renowned for its diverse and vibrant food scene, featuring a blend of Malay, Chinese, Indian, and Thai influences. The island is famous for its street food, including iconic dishes like Char Koay Teow, Penang Laksa, and Teochew Chendul, offering a rich culinary experience."
+            },
+        "places": [
+            {
+                "title": "Muzium Perang",
+                "image": "/src/resources/images/war.png",
+                "modalDescription": "Muzium Perang, or the Penang War Museum, is located on the island of Penang and is one of Malaysia's most important historical sites. Originally a British military fortress built in the 1930s, the museum now serves as a poignant reminder of the country’s wartime history. Visitors can explore underground tunnels, ammunition bunkers, and other military structures while learning about the experiences of soldiers and civilians during World War II. The museum provides an immersive experience, allowing visitors to step back in time and gain a deeper understanding of Malaysia's role in global conflicts.",
+                "stateDescription": "A historic war museum in Penang, offering a glimpse into Malaysia's military past.",
+                "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3972.872738894442!2d100.28492117498315!3d5.282544194695656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304abfbbfa8216df:0xf16e80200a5ec1ac!2sPenang%20War%20Museum!5e0!3m2!1sen!2smy!4v1723822786347!5m2!1sen!2smy"
+            },
+            {
+                "title": "Hin Bus Depot",
+                "image": "/src/resources/images/hinbus.jpg",
+                "modalDescription": "Hin Bus Depot, located in the heart of George Town, Penang, is a thriving arts and cultural hub that has become a focal point for the local creative community. Originally a bus depot, the space was transformed into an art center in 2014 and has since hosted numerous art exhibitions, workshops, and cultural events. The depot’s industrial charm, combined with its ever-changing array of murals, sculptures, and installations, makes it a must-visit destination for art enthusiasts and visitors seeking to experience Penang's contemporary art scene. It is also home to a weekend market, where local artisans and food vendors showcase their creations.",
+                "stateDescription": "A vibrant arts and cultural center in Penang, known for contemporary art exhibitions and creative events.",
+                "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3972.0325470637254!2d100.32543142498407!3d5.412013994567169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304ac3956fabd50b:0xcb4ba1088ede4a34!2sHin%20Bus%20Depot!5e0!3m2!1sen!2smy!4v1723823250918!5m2!1sen!2smy"
+            },
+            {
+                "title": "Kek Lok Si Temple",
+                "image": "/src/resources/images/kekloksi.jpg",
+                "modalDescription": "Kek Lok Si is one of the largest and most beautiful Buddhist temples in Southeast Asia, located in Air Itam, Penang. The temple complex is an architectural marvel, featuring a blend of Chinese, Thai, and Burmese designs. Visitors are greeted by the majestic Pagoda of Ten Thousand Buddhas and a towering statue of the Goddess of Mercy, Kuan Yin. The temple is not only a place of worship but also a popular tourist attraction, offering panoramic views of the surrounding hills and the city below. During Chinese New Year, Kek Lok Si is illuminated with thousands of lights, creating a breathtaking spectacle.",
+                "stateDescription": "A stunning Buddhist temple in Penang, known for its grand architecture and beautiful hilltop views.",
+                "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3972.1151208941155!2d100.27377129999999!3d5.399426900000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304ac21a8adace3d:0xf577f6f1f5f767a!2sKek%20Lok%20Si%20Temple,%20Jln%20Balik%20Pulau,%2011500%20Ayer%20Itam,%20Pulau%20Pinang!5e0!3m2!1sen!2smy!4v1723823417579!5m2!1sen!2smy"
+            },
+            {
+                "title": "Penang Hill",
+                "image": "/src/resources/images/penanghill.jpg",
+                "modalDescription": "Penang Hill, also known as Bukit Bendera, is a scenic hill resort located just outside George Town, Penang. Standing at 833 meters above sea level, it is a popular retreat for both locals and tourists seeking to escape the tropical heat. The hill is accessible via a funicular railway that takes visitors to the summit, where they can enjoy stunning panoramic views of the island and the Straits of Malacca. Penang Hill is also home to several attractions, including The Habitat, a nature park with treetop walks, and a variety of trails for those who enjoy hiking and exploring the rich flora and fauna of the area.",
+                "stateDescription": "A popular hill resort in Penang, offering cool climates, nature trails, and panoramic views of the island.",
+                "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31776.447006381586!2d100.25673205523658!3d5.408460852515864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304ac28738d4ea43:0xf862c72e1eb12bb9!2sPenang%20Hill!5e0!3m2!1sen!2smy!4v1723824663309!5m2!1sen!2smy"
+            }
+        ],
+        "foods": [
+            {
+                "title": "Siam Road Char Koay Teow",
+                "image": "/src/resources/images/siamroad.png",
+                "modalDescription": "Siam Road Char Koay Teow is an iconic street food stall in Penang, famous for serving some of the best Char Koay Teow in Malaysia. The dish is expertly cooked over a charcoal-fired wok, giving it a distinctive smoky flavor that draws locals and tourists alike. Each plate is filled with flat rice noodles stir-fried with fresh prawns, Chinese sausages, eggs, and bean sprouts, creating a deliciously savory experience. Despite long queues, the wait is well worth it for a taste of this authentic Penang delicacy.",
+                "stateDescription": "A legendary food stall in Penang known for its smoky, wok-fried Char Koay Teow.",
+                "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3972.0138987600644!2d100.32102409999999!3d5.414852600000007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304ac3b9600a8c6b:0xd12bc6444efbb750!2sSiam%20Road%20Charcoal%20Char%20Kuey%20Teow!5e0!3m2!1sen!2smy!4v1723825318995!5m2!1sen!2smy"
+            },
+            {
+                "title": "Nasi Kandar Line Clear",
+                "image": "/src/resources/images/lineclear.jpg",
+                "modalDescription": "Nasi Kandar Line Clear is a must-visit spot in George Town, Penang, for anyone craving authentic Nasi Kandar. Established in the 1940s, this famous eatery has earned a reputation for its mouthwatering dishes, which consist of steamed rice served with a variety of curries, meats, and vegetables. The rich, spicy flavors of the curries, combined with the bustling atmosphere, make it a favorite among both locals and tourists. Whether it’s chicken curry, beef rendang, or fried fish, each dish is cooked to perfection, offering a true taste of Penang’s culinary heritage.",
+                "stateDescription": "A popular eatery in George Town serving flavorful Nasi Kandar with a variety of curries.",
+                "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3971.982064001966!2d100.3299290746348!3d5.419694994559543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304ac3974ed8f2bd:0xb925fa81eb1b5041!2sRestoran%20Nasi%20Kandar%20Line%20Clear!5e0!3m2!1sen!2smy!4v1723825461469!5m2!1sen!2smy"
+            },
+            {
+                "title": "Penang Road Famous Teochew Chendul",
+                "image": "/src/resources/images/chendul.jpg",
+                "modalDescription": "Penang Road Famous Teochew Chendul is a beloved dessert stall in Penang, known for its refreshing bowls of chendul. This traditional dessert features shaved ice topped with coconut milk, green rice flour jelly, red beans, and a generous drizzle of palm sugar syrup. The stall has been serving this iconic treat since 1936 and continues to attract long lines of customers eager to cool off with a bowl of this sweet and creamy dessert. Located on Penang Road, it’s a perfect stop for anyone exploring the vibrant streets of George Town.",
+                "stateDescription": "A well-known dessert stall in Penang offering refreshing bowls of Teochew Chendul.",
+                "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63556.2867039055!2d100.27217636013994!3d5.376057718248701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304ac396f08ab391:0x1aa1f039a9d940ba!2sPenang%20Road%20Famous%20Teochew%20Chendul!5e0!3m2!1sen!2smy!4v1723825561587!5m2!1sen!2smy"
+            },
+            {
+                "title": "Gurney Drive Hawker Centre",
+                "image": "/src/resources/images/gurney.png",
+                "modalDescription": "Gurney Drive Hawker Centre is one of Penang’s most famous food destinations, offering a wide selection of local street food in an open-air setting. Located along the scenic Gurney Drive, the food court is a haven for food lovers, with stalls serving everything from Penang Laksa and Rojak to Satay and Hokkien Mee. The lively atmosphere and beachfront location make it a popular spot for both tourists and locals looking to enjoy the best of Penang’s street food culture. Whether you’re a first-time visitor or a seasoned foodie, Gurney Drive is a must-visit for an authentic Penang dining experience.",
+                "stateDescription": " A famous open-air food court in Penang offering a wide variety of local street food.",
+                "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3971.8467711269786!2d100.30615667463492!3d5.440226494539189!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304ac30639aac903:0x8e7f6fe543f145f8!2zR3VybmV5IERyaXZlIEhhd2tlciBDZW50cmUgKOaWsOmXnOS7lOinkuWwj-iyqeS4reW_gyk!5e0!3m2!1sen!2smy!4v1723825611951!5m2!1sen!2smy"
+            }
+        ]
+    },
+    {
+        "state-name": "Selangor",
+        "descriptions": 
+            {
+                "placesdesc": "Penang is celebrated for its rich cultural heritage and historic landmarks, blending influences from its diverse past. Key attractions include the Penang War Museum, which offers a glimpse into Malaysia's military history, the vibrant Hin Bus Depot known for contemporary art, the stunning Kek Lok Si Temple with its grand architecture, and Penang Hill, providing breathtaking panoramic views and a serene escape from the city.",
+                "fooddesc": "Penang is renowned for its diverse and vibrant food scene, featuring a blend of Malay, Chinese, Indian, and Thai influences. The island is famous for its street food, including iconic dishes like Char Koay Teow, Penang Laksa, and Teochew Chendul, offering a rich culinary experience."
+            },
+        "places": [
+            {
+                "title": "Place 1",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 1 in Selangor.",
+                "stateDescription": "Short description for Place 1 in Selangor."
+            },
+            {
+                "title": "Place 2",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 2 in Selangor.",
+                "stateDescription": "Short description for Place 2 in Selangor."
+            },
+            {
+                "title": "Place 3",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 3 in Selangor.",
+                "stateDescription": "Short description for Place 3 in Selangor."
+            },
+            {
+                "title": "Place 4",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 4 in Selangor.",
+                "stateDescription": "Short description for Place 4 in Selangor."
+            }
+        ],
+        "foods": [
+            {
+                "title": "Food 1",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 1 in Selangor.",
+                "stateDescription": "Short description for Food 1 in Selangor."
+            },
+            {
+                "title": "Food 2",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 2 in Selangor.",
+                "stateDescription": "Short description for Food 2 in Selangor."
+            },
+            {
+                "title": "Food 3",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 3 in Selangor.",
+                "stateDescription": "Short description for Food 3 in Selangor."
+            },
+            {
+                "title": "Food 4",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 4 in Selangor.",
+                "stateDescription": "Short description for Food 4 in Selangor."
+            }
+        ]
+    },
+    {
+        "state-name": "Johor",
+        "descriptions": 
+            {
+                "placesdesc": "Penang is celebrated for its rich cultural heritage and historic landmarks, blending influences from its diverse past. Key attractions include the Penang War Museum, which offers a glimpse into Malaysia's military history, the vibrant Hin Bus Depot known for contemporary art, the stunning Kek Lok Si Temple with its grand architecture, and Penang Hill, providing breathtaking panoramic views and a serene escape from the city.",
+                "fooddesc": "Penang is renowned for its diverse and vibrant food scene, featuring a blend of Malay, Chinese, Indian, and Thai influences. The island is famous for its street food, including iconic dishes like Char Koay Teow, Penang Laksa, and Teochew Chendul, offering a rich culinary experience."
+            },
+        "places": [
+            {
+                "title": "Place 1",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 1 in Johor.",
+                "stateDescription": "Short description for Place 1 in Johor."
+            },
+            {
+                "title": "Place 2",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 2 in Johor.",
+                "stateDescription": "Short description for Place 2 in Johor."
+            },
+            {
+                "title": "Place 3",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 3 in Johor.",
+                "stateDescription": "Short description for Place 3 in Johor."
+            },
+            {
+                "title": "Place 4",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 4 in Johor.",
+                "stateDescription": "Short description for Place 4 in Johor."
+            }
+        ],
+        "foods": [
+            {
+                "title": "Food 1",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 1 in Johor.",
+                "stateDescription": "Short description for Food 1 in Johor."
+            },
+            {
+                "title": "Food 2",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 2 in Johor.",
+                "stateDescription": "Short description for Food 2 in Johor."
+            },
+            {
+                "title": "Food 3",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 3 in Johor.",
+                "stateDescription": "Short description for Food 3 in Johor."
+            },
+            {
+                "title": "Food 4",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 4 in Johor.",
+                "stateDescription": "Short description for Food 4 in Johor."
+            }
+        ]
+    },
+    {
+        "state-name": "Malacca",
+        "descriptions": 
+            {
+                "placesdesc": "Penang is celebrated for its rich cultural heritage and historic landmarks, blending influences from its diverse past. Key attractions include the Penang War Museum, which offers a glimpse into Malaysia's military history, the vibrant Hin Bus Depot known for contemporary art, the stunning Kek Lok Si Temple with its grand architecture, and Penang Hill, providing breathtaking panoramic views and a serene escape from the city.",
+                "fooddesc": "Penang is renowned for its diverse and vibrant food scene, featuring a blend of Malay, Chinese, Indian, and Thai influences. The island is famous for its street food, including iconic dishes like Char Koay Teow, Penang Laksa, and Teochew Chendul, offering a rich culinary experience."
+            },
+        "places": [
+            {
+                "title": "Place 1",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 1 in Malacca.",
+                "stateDescription": "Short description for Place 1 in Malacca."
+            },
+            {
+                "title": "Place 2",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 2 in Malacca.",
+                "stateDescription": "Short description for Place 2 in Malacca."
+            },
+            {
+                "title": "Place 3",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 3 in Malacca.",
+                "stateDescription": "Short description for Place 3 in Malacca."
+            },
+            {
+                "title": "Place 4",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 4 in Malacca.",
+                "stateDescription": "Short description for Place 4 in Malacca."
+            }
+        ],
+        "foods": [
+            {
+                "title": "Food 1",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 1 in Malacca.",
+                "stateDescription": "Short description for Food 1 in Malacca."
+            },
+            {
+                "title": "Food 2",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 2 in Malacca.",
+                "stateDescription": "Short description for Food 2 in Malacca."
+            },
+            {
+                "title": "Food 3",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 3 in Malacca.",
+                "stateDescription": "Short description for Food 3 in Malacca."
+            },
+            {
+                "title": "Food 4",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 4 in Malacca.",
+                "stateDescription": "Short description for Food 4 in Malacca."
+            }
+        ]
+    },
+    {
+        "state-name": "Negeri Sembilan",
+        "descriptions": 
+            {
+                "placesdesc": "Penang is celebrated for its rich cultural heritage and historic landmarks, blending influences from its diverse past. Key attractions include the Penang War Museum, which offers a glimpse into Malaysia's military history, the vibrant Hin Bus Depot known for contemporary art, the stunning Kek Lok Si Temple with its grand architecture, and Penang Hill, providing breathtaking panoramic views and a serene escape from the city.",
+                "fooddesc": "Penang is renowned for its diverse and vibrant food scene, featuring a blend of Malay, Chinese, Indian, and Thai influences. The island is famous for its street food, including iconic dishes like Char Koay Teow, Penang Laksa, and Teochew Chendul, offering a rich culinary experience."
+            },
+        "places": [
+            {
+                "title": "Place 1",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 1 in Negeri Sembilan.",
+                "stateDescription": "Short description for Place 1 in Negeri Sembilan."
+            },
+            {
+                "title": "Place 2",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 2 in Negeri Sembilan.",
+                "stateDescription": "Short description for Place 2 in Negeri Sembilan."
+            },
+            {
+                "title": "Place 3",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 3 in Negeri Sembilan.",
+                "stateDescription": "Short description for Place 3 in Negeri Sembilan."
+            },
+            {
+                "title": "Place 4",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 4 in Negeri Sembilan.",
+                "stateDescription": "Short description for Place 4 in Negeri Sembilan."
+            }
+        ],
+        "foods": [
+            {
+                "title": "Food 1",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 1 in Negeri Sembilan.",
+                "stateDescription": "Short description for Food 1 in Negeri Sembilan."
+            },
+            {
+                "title": "Food 2",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 2 in Negeri Sembilan.",
+                "stateDescription": "Short description for Food 2 in Negeri Sembilan."
+            },
+            {
+                "title": "Food 3",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 3 in Negeri Sembilan.",
+                "stateDescription": "Short description for Food 3 in Negeri Sembilan."
+            },
+            {
+                "title": "Food 4",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 4 in Negeri Sembilan.",
+                "stateDescription": "Short description for Food 4 in Negeri Sembilan."
+            }
+        ]
+    },
+    {
+        "state-name": "Pahang",
+        "descriptions": 
+            {
+                "placesdesc": "Penang is celebrated for its rich cultural heritage and historic landmarks, blending influences from its diverse past. Key attractions include the Penang War Museum, which offers a glimpse into Malaysia's military history, the vibrant Hin Bus Depot known for contemporary art, the stunning Kek Lok Si Temple with its grand architecture, and Penang Hill, providing breathtaking panoramic views and a serene escape from the city.",
+                "fooddesc": "Penang is renowned for its diverse and vibrant food scene, featuring a blend of Malay, Chinese, Indian, and Thai influences. The island is famous for its street food, including iconic dishes like Char Koay Teow, Penang Laksa, and Teochew Chendul, offering a rich culinary experience."
+            },
+        "places": [
+            {
+                "title": "Place 1",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 1 in Pahang.",
+                "stateDescription": "Short description for Place 1 in Pahang."
+            },
+            {
+                "title": "Place 2",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 2 in Pahang.",
+                "stateDescription": "Short description for Place 2 in Pahang."
+            },
+            {
+                "title": "Place 3",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 3 in Pahang.",
+                "stateDescription": "Short description for Place 3 in Pahang."
+            },
+            {
+                "title": "Place 4",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 4 in Pahang.",
+                "stateDescription": "Short description for Place 4 in Pahang."
+            }
+        ],
+        "foods": [
+            {
+                "title": "Food 1",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 1 in Pahang.",
+                "stateDescription": "Short description for Food 1 in Pahang."
+            },
+            {
+                "title": "Food 2",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 2 in Pahang.",
+                "stateDescription": "Short description for Food 2 in Pahang."
+            },
+            {
+                "title": "Food 3",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 3 in Pahang.",
+                "stateDescription": "Short description for Food 3 in Pahang."
+            },
+            {
+                "title": "Food 4",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 4 in Pahang.",
+                "stateDescription": "Short description for Food 4 in Pahang."
+            }
+        ]
+    },
+    {
+        "state-name": "Kelantan",
+        "descriptions": 
+            {
+                "placesdesc": "Penang is celebrated for its rich cultural heritage and historic landmarks, blending influences from its diverse past. Key attractions include the Penang War Museum, which offers a glimpse into Malaysia's military history, the vibrant Hin Bus Depot known for contemporary art, the stunning Kek Lok Si Temple with its grand architecture, and Penang Hill, providing breathtaking panoramic views and a serene escape from the city.",
+                "fooddesc": "Penang is renowned for its diverse and vibrant food scene, featuring a blend of Malay, Chinese, Indian, and Thai influences. The island is famous for its street food, including iconic dishes like Char Koay Teow, Penang Laksa, and Teochew Chendul, offering a rich culinary experience."
+            },
+        "places": [
+            {
+                "title": "Place 1",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 1 in Kelantan.",
+                "stateDescription": "Short description for Place 1 in Kelantan."
+            },
+            {
+                "title": "Place 2",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 2 in Kelantan.",
+                "stateDescription": "Short description for Place 2 in Kelantan."
+            },
+            {
+                "title": "Place 3",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 3 in Kelantan.",
+                "stateDescription": "Short description for Place 3 in Kelantan."
+            },
+            {
+                "title": "Place 4",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 4 in Kelantan.",
+                "stateDescription": "Short description for Place 4 in Kelantan."
+            }
+        ],
+        "foods": [
+            {
+                "title": "Food 1",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 1 in Kelantan.",
+                "stateDescription": "Short description for Food 1 in Kelantan."
+            },
+            {
+                "title": "Food 2",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 2 in Kelantan.",
+                "stateDescription": "Short description for Food 2 in Kelantan."
+            },
+            {
+                "title": "Food 3",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 3 in Kelantan.",
+                "stateDescription": "Short description for Food 3 in Kelantan."
+            },
+            {
+                "title": "Food 4",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 4 in Kelantan.",
+                "stateDescription": "Short description for Food 4 in Kelantan."
+            }
+        ]
+    },
+    {
+        "state-name": "Terengganu",
+        "descriptions": 
+            {
+                "placesdesc": "Penang is celebrated for its rich cultural heritage and historic landmarks, blending influences from its diverse past. Key attractions include the Penang War Museum, which offers a glimpse into Malaysia's military history, the vibrant Hin Bus Depot known for contemporary art, the stunning Kek Lok Si Temple with its grand architecture, and Penang Hill, providing breathtaking panoramic views and a serene escape from the city.",
+                "fooddesc": "Penang is renowned for its diverse and vibrant food scene, featuring a blend of Malay, Chinese, Indian, and Thai influences. The island is famous for its street food, including iconic dishes like Char Koay Teow, Penang Laksa, and Teochew Chendul, offering a rich culinary experience."
+            },
+        "places": [
+            {
+                "title": "Place 1",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 1 in Terengganu.",
+                "stateDescription": "Short description for Place 1 in Terengganu."
+            },
+            {
+                "title": "Place 2",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 2 in Terengganu.",
+                "stateDescription": "Short description for Place 2 in Terengganu."
+            },
+            {
+                "title": "Place 3",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 3 in Terengganu.",
+                "stateDescription": "Short description for Place 3 in Terengganu."
+            },
+            {
+                "title": "Place 4",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 4 in Terengganu.",
+                "stateDescription": "Short description for Place 4 in Terengganu."
+            }
+        ],
+        "foods": [
+            {
+                "title": "Food 1",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 1 in Terengganu.",
+                "stateDescription": "Short description for Food 1 in Terengganu."
+            },
+            {
+                "title": "Food 2",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 2 in Terengganu.",
+                "stateDescription": "Short description for Food 2 in Terengganu."
+            },
+            {
+                "title": "Food 3",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 3 in Terengganu.",
+                "stateDescription": "Short description for Food 3 in Terengganu."
+            },
+            {
+                "title": "Food 4",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 4 in Terengganu.",
+                "stateDescription": "Short description for Food 4 in Terengganu."
+            }
+        ]
+    },
+    {
+        "state-name": "Sarawak",
+        "descriptions": 
+            {
+                "placesdesc": "Penang is celebrated for its rich cultural heritage and historic landmarks, blending influences from its diverse past. Key attractions include the Penang War Museum, which offers a glimpse into Malaysia's military history, the vibrant Hin Bus Depot known for contemporary art, the stunning Kek Lok Si Temple with its grand architecture, and Penang Hill, providing breathtaking panoramic views and a serene escape from the city.",
+                "fooddesc": "Penang is renowned for its diverse and vibrant food scene, featuring a blend of Malay, Chinese, Indian, and Thai influences. The island is famous for its street food, including iconic dishes like Char Koay Teow, Penang Laksa, and Teochew Chendul, offering a rich culinary experience."
+            },
+        "places": [
+            {
+                "title": "Place 1",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 1 in Sarawak.",
+                "stateDescription": "Short description for Place 1 in Sarawak."
+            },
+            {
+                "title": "Place 2",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 2 in Sarawak.",
+                "stateDescription": "Short description for Place 2 in Sarawak."
+            },
+            {
+                "title": "Place 3",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 3 in Sarawak.",
+                "stateDescription": "Short description for Place 3 in Sarawak."
+            },
+            {
+                "title": "Place 4",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 4 in Sarawak.",
+                "stateDescription": "Short description for Place 4 in Sarawak."
+            }
+        ],
+        "foods": [
+            {
+                "title": "Food 1",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 1 in Sarawak.",
+                "stateDescription": "Short description for Food 1 in Sarawak."
+            },
+            {
+                "title": "Food 2",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 2 in Sarawak.",
+                "stateDescription": "Short description for Food 2 in Sarawak."
+            },
+            {
+                "title": "Food 3",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 3 in Sarawak.",
+                "stateDescription": "Short description for Food 3 in Sarawak."
+            },
+            {
+                "title": "Food 4",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 4 in Sarawak.",
+                "stateDescription": "Short description for Food 4 in Sarawak."
+            }
+        ]
+    },
+    {
+        "state-name": "Sabah",
+        "descriptions": 
+            {
+                "placesdesc": "Penang is celebrated for its rich cultural heritage and historic landmarks, blending influences from its diverse past. Key attractions include the Penang War Museum, which offers a glimpse into Malaysia's military history, the vibrant Hin Bus Depot known for contemporary art, the stunning Kek Lok Si Temple with its grand architecture, and Penang Hill, providing breathtaking panoramic views and a serene escape from the city.",
+                "fooddesc": "Penang is renowned for its diverse and vibrant food scene, featuring a blend of Malay, Chinese, Indian, and Thai influences. The island is famous for its street food, including iconic dishes like Char Koay Teow, Penang Laksa, and Teochew Chendul, offering a rich culinary experience."
+            },
+        "places": [
+            {
+                "title": "Place 1",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 1 in Sabah.",
+                "stateDescription": "Short description for Place 1 in Sabah."
+            },
+            {
+                "title": "Place 2",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 2 in Sabah.",
+                "stateDescription": "Short description for Place 2 in Sabah."
+            },
+            {
+                "title": "Place 3",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 3 in Sabah.",
+                "stateDescription": "Short description for Place 3 in Sabah."
+            },
+            {
+                "title": "Place 4",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 4 in Sabah.",
+                "stateDescription": "Short description for Place 4 in Sabah."
+            }
+        ],
+        "foods": [
+            {
+                "title": "Food 1",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 1 in Sabah.",
+                "stateDescription": "Short description for Food 1 in Sabah."
+            },
+            {
+                "title": "Food 2",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 2 in Sabah.",
+                "stateDescription": "Short description for Food 2 in Sabah."
+            },
+            {
+                "title": "Food 3",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 3 in Sabah.",
+                "stateDescription": "Short description for Food 3 in Sabah."
+            },
+            {
+                "title": "Food 4",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 4 in Sabah.",
+                "stateDescription": "Short description for Food 4 in Sabah."
+            }
+        ]
+    },
+    {
+        "state-name": "Kedah",
+        "descriptions": 
+            {
+                "placesdesc": "Penang is celebrated for its rich cultural heritage and historic landmarks, blending influences from its diverse past. Key attractions include the Penang War Museum, which offers a glimpse into Malaysia's military history, the vibrant Hin Bus Depot known for contemporary art, the stunning Kek Lok Si Temple with its grand architecture, and Penang Hill, providing breathtaking panoramic views and a serene escape from the city.",
+                "fooddesc": "Penang is renowned for its diverse and vibrant food scene, featuring a blend of Malay, Chinese, Indian, and Thai influences. The island is famous for its street food, including iconic dishes like Char Koay Teow, Penang Laksa, and Teochew Chendul, offering a rich culinary experience."
+            },
+        "places": [
+            {
+                "title": "Place 1",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 1 in Kedah.",
+                "stateDescription": "Short description for Place 1 in Kedah."
+            },
+            {
+                "title": "Place 2",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 2 in Kedah.",
+                "stateDescription": "Short description for Place 2 in Kedah."
+            },
+            {
+                "title": "Place 3",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 3 in Kedah.",
+                "stateDescription": "Short description for Place 3 in Kedah."
+            },
+            {
+                "title": "Place 4",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 4 in Kedah.",
+                "stateDescription": "Short description for Place 4 in Kedah."
+            }
+        ],
+        "foods": [
+            {
+                "title": "Food 1",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 1 in Kedah.",
+                "stateDescription": "Short description for Food 1 in Kedah."
+            },
+            {
+                "title": "Food 2",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 2 in Kedah.",
+                "stateDescription": "Short description for Food 2 in Kedah."
+            },
+            {
+                "title": "Food 3",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 3 in Kedah.",
+                "stateDescription": "Short description for Food 3 in Kedah."
+            },
+            {
+                "title": "Food 4",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 4 in Kedah.",
+                "stateDescription": "Short description for Food 4 in Kedah."
+            }
+        ]
+    },
+    {
+        "state-name": "Perlis",
+        "descriptions": 
+            {
+                "placesdesc": "Penang is celebrated for its rich cultural heritage and historic landmarks, blending influences from its diverse past. Key attractions include the Penang War Museum, which offers a glimpse into Malaysia's military history, the vibrant Hin Bus Depot known for contemporary art, the stunning Kek Lok Si Temple with its grand architecture, and Penang Hill, providing breathtaking panoramic views and a serene escape from the city.",
+                "fooddesc": "Penang is renowned for its diverse and vibrant food scene, featuring a blend of Malay, Chinese, Indian, and Thai influences. The island is famous for its street food, including iconic dishes like Char Koay Teow, Penang Laksa, and Teochew Chendul, offering a rich culinary experience."
+            },
+        "places": [
+            {
+                "title": "Place 1",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 1 in Perlis.",
+                "stateDescription": "Short description for Place 1 in Perlis."
+            },
+            {
+                "title": "Place 2",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 2 in Perlis.",
+                "stateDescription": "Short description for Place 2 in Perlis."
+            },
+            {
+                "title": "Place 3",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 3 in Perlis.",
+                "stateDescription": "Short description for Place 3 in Perlis."
+            },
+            {
+                "title": "Place 4",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 4 in Perlis.",
+                "stateDescription": "Short description for Place 4 in Perlis."
+            }
+        ],
+        "foods": [
+            {
+                "title": "Food 1",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 1 in Perlis.",
+                "stateDescription": "Short description for Food 1 in Perlis."
+            },
+            {
+                "title": "Food 2",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 2 in Perlis.",
+                "stateDescription": "Short description for Food 2 in Perlis."
+            },
+            {
+                "title": "Food 3",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 3 in Perlis.",
+                "stateDescription": "Short description for Food 3 in Perlis."
+            },
+            {
+                "title": "Food 4",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 4 in Perlis.",
+                "stateDescription": "Short description for Food 4 in Perlis."
+            }
+        ]
+    },
+    {
+        "state-name": "Kuala Lumpur",
+        "descriptions": 
+            {
+                "placesdesc": "Penang is celebrated for its rich cultural heritage and historic landmarks, blending influences from its diverse past. Key attractions include the Penang War Museum, which offers a glimpse into Malaysia's military history, the vibrant Hin Bus Depot known for contemporary art, the stunning Kek Lok Si Temple with its grand architecture, and Penang Hill, providing breathtaking panoramic views and a serene escape from the city.",
+                "fooddesc": "Penang is renowned for its diverse and vibrant food scene, featuring a blend of Malay, Chinese, Indian, and Thai influences. The island is famous for its street food, including iconic dishes like Char Koay Teow, Penang Laksa, and Teochew Chendul, offering a rich culinary experience."
+            },
+        "places": [
+            {
+                "title": "Place 1",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 1 in Kuala Lumpur.",
+                "stateDescription": "Short description for Place 1 in Kuala Lumpur."
+            },
+            {
+                "title": "Place 2",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 2 in Kuala Lumpur.",
+                "stateDescription": "Short description for Place 2 in Kuala Lumpur."
+            },
+            {
+                "title": "Place 3",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 3 in Kuala Lumpur.",
+                "stateDescription": "Short description for Place 3 in Kuala Lumpur."
+            },
+            {
+                "title": "Place 4",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 4 in Kuala Lumpur.",
+                "stateDescription": "Short description for Place 4 in Kuala Lumpur."
+            }
+        ],
+        "foods": [
+            {
+                "title": "Food 1",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 1 in Kuala Lumpur.",
+                "stateDescription": "Short description for Food 1 in Kuala Lumpur."
+            },
+            {
+                "title": "Food 2",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 2 in Kuala Lumpur.",
+                "stateDescription": "Short description for Food 2 in Kuala Lumpur."
+            },
+            {
+                "title": "Food 3",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 3 in Kuala Lumpur.",
+                "stateDescription": "Short description for Food 3 in Kuala Lumpur."
+            },
+            {
+                "title": "Food 4",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 4 in Kuala Lumpur.",
+                "stateDescription": "Short description for Food 4 in Kuala Lumpur."
+            }
+        ]
+    },
+    {
+        "state-name": "Labuan",
+        "descriptions": 
+            {
+                "placesdesc": "Penang is celebrated for its rich cultural heritage and historic landmarks, blending influences from its diverse past. Key attractions include the Penang War Museum, which offers a glimpse into Malaysia's military history, the vibrant Hin Bus Depot known for contemporary art, the stunning Kek Lok Si Temple with its grand architecture, and Penang Hill, providing breathtaking panoramic views and a serene escape from the city.",
+                "fooddesc": "Penang is renowned for its diverse and vibrant food scene, featuring a blend of Malay, Chinese, Indian, and Thai influences. The island is famous for its street food, including iconic dishes like Char Koay Teow, Penang Laksa, and Teochew Chendul, offering a rich culinary experience."
+            },
+        "places": [
+            {
+                "title": "Place 1",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 1 in Labuan.",
+                "stateDescription": "Short description for Place 1 in Labuan."
+            },
+            {
+                "title": "Place 2",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 2 in Labuan.",
+                "stateDescription": "Short description for Place 2 in Labuan."
+            },
+            {
+                "title": "Place 3",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 3 in Labuan.",
+                "stateDescription": "Short description for Place 3 in Labuan."
+            },
+            {
+                "title": "Place 4",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 4 in Labuan.",
+                "stateDescription": "Short description for Place 4 in Labuan."
+            }
+        ],
+        "foods": [
+            {
+                "title": "Food 1",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 1 in Labuan.",
+                "stateDescription": "Short description for Food 1 in Labuan."
+            },
+            {
+                "title": "Food 2",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 2 in Labuan.",
+                "stateDescription": "Short description for Food 2 in Labuan."
+            },
+            {
+                "title": "Food 3",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 3 in Labuan.",
+                "stateDescription": "Short description for Food 3 in Labuan."
+            },
+            {
+                "title": "Food 4",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 4 in Labuan.",
+                "stateDescription": "Short description for Food 4 in Labuan."
+            }
+        ]
+    },
+    {
+        "state-name": "Putrajaya",
+        "descriptions": 
+            {
+                "placesdesc": "Penang is celebrated for its rich cultural heritage and historic landmarks, blending influences from its diverse past. Key attractions include the Penang War Museum, which offers a glimpse into Malaysia's military history, the vibrant Hin Bus Depot known for contemporary art, the stunning Kek Lok Si Temple with its grand architecture, and Penang Hill, providing breathtaking panoramic views and a serene escape from the city.",
+                "fooddesc": "Penang is renowned for its diverse and vibrant food scene, featuring a blend of Malay, Chinese, Indian, and Thai influences. The island is famous for its street food, including iconic dishes like Char Koay Teow, Penang Laksa, and Teochew Chendul, offering a rich culinary experience."
+            },
+        "places": [
+            {
+                "title": "Place 1",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 1 in Putrajaya.",
+                "stateDescription": "Short description for Place 1 in Putrajaya."
+            },
+            {
+                "title": "Place 2",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 2 in Putrajaya.",
+                "stateDescription": "Short description for Place 2 in Putrajaya."
+            },
+            {
+                "title": "Place 3",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 3 in Putrajaya.",
+                "stateDescription": "Short description for Place 3 in Putrajaya."
+            },
+            {
+                "title": "Place 4",
+                "image": "/src/resources/images/ipoh-train.jpg",
+                "modalDescription": "Detailed description for Place 4 in Putrajaya.",
+                "stateDescription": "Short description for Place 4 in Putrajaya."
+            }
+        ],
+        "foods": [
+            {
+                "title": "Food 1",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 1 in Putrajaya.",
+                "stateDescription": "Short description for Food 1 in Putrajaya."
+            },
+            {
+                "title": "Food 2",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 2 in Putrajaya.",
+                "stateDescription": "Short description for Food 2 in Putrajaya."
+            },
+            {
+                "title": "Food 3",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 3 in Putrajaya.",
+                "stateDescription": "Short description for Food 3 in Putrajaya."
+            },
+            {
+                "title": "Food 4",
+                "image": "/src/resources/images/Curry-Laksa-scaled.jpg",
+                "modalDescription": "Detailed description for Food 4 in Putrajaya.",
+                "stateDescription": "Short description for Food 4 in Putrajaya."
+            }
+        ]
+    }
+]

@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Getting Around</title>
+   <!-- Favicon -->
+   <link rel="icon" type="image/x-icon" href="/src/resources/images/website-logo.png">
+   <!-- Header and Footer -->
+   <script type="module" src="/src/controllers/header-footer.js"></script>
+   <!-- Font -->
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;700;800;900&display=swap"
+      rel="stylesheet">
+   <!-- Bootstrap -->
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"></script>
+   <!-- CSS -->
+   <link rel="stylesheet" href="../resources/css/main.css">
+   <link rel="stylesheet" href="/src/resources/css/header-footer.css">
+   <link rel="stylesheet" href="/src/resources/css/getting-around.css">
+   <link rel="stylesheet" href="/src/resources/css/theme.css">
+   <script src="/src/controllers/theme.js"></script>
+  
+      
+
+</head>
+
+<body>
+   <my-header></my-header>
+   <main>
+     
+      <section id="transportation-intro-container">
+         <div id="intro-img-container">
+            <img id="intro-img" src="/src/resources/images/transit.jpg" alt="intro-img">
+            <div id="intro-overlay">
+               <h1 id="msia-public-trans-font">Public Transportation of Malaysia</h1>
+            </div>
+         </div>
+         <div class="message container" id="intro-message">
+            <div class="row">
+               <div class="col">
+                  <p>Getting around in Malaysia is both convenient and efficient, thanks to its extensive public
+                     transport network. Major cities such as Kuala Lumpur, Penang, and Johor Bahru feature comprehensive
+                     transit systems, including buses, trains, and trams. In Kuala Lumpur, the Light Rail Transit (LRT) and
+                     Monorail, along with the KTM Komuter trains,
+                     offer seamless connections throughout the city and its suburbs. Buses operated by various providers cover
+                     extensive routes, making it easy to reach areas not served by rail. Additionally, services like Grab
+                     provide flexible and reliable ride-hailing options. For
+                     intercity travel, express buses and trains such as the ETS (Electric Train Service) connect major urban
+                     centers and popular tourist destinations. With modern facilities and frequent services, Malaysia's public
+                     transport system is
+                     well-equipped to meet the needs of both locals and visitors, offering a practical and economical way to
+                     explore the country.</p>
+               </div>
+            </div>
+         </div>
+      </section>
+
+      <!-- KLIA express -->
+      <section class="container transportation-details-container">
+         <div class="row">
+            <div class="col-12 col-lg-5">
+               <img class="transportation-images" src="/src/resources/images/klia.png" alt="">
+            </div>
+            <div class="col-12 col-lg-7" id="klia-desc-container">
+               <h2 class="transportation-type">KLIA Ekspres</h2>
+               <p class="message">
+                  The KLIA Ekspres is a high-speed rail service connecting Kuala Lumpur International Airport
+                  (KLIA) and
+                  KLIA2 with the city center. Launched in 2002, it provides a fast, efficient, and reliable transfer,
+                  taking just 28 minutes from KL Sentral to the airport with departures every 15-20 minutes. The service
+                  features comfortable seating, ample luggage space, and free Wi-Fi. Known for punctuality, it
+                  integrates
+                  well with other transport options like the KLIA Transit. Tickets are available online, via mobile
+                  apps,
+                  and at stations, with discounts for certain groups. Additionally, passengers can check in for flights
+                  and
+                  drop off luggage at KL Sentral for selected airlines.
+               </p>
+               <div class="accordion" id="klia-accordion">
+                  <div class="accordion-item">
+                     <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                           data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                           Helpful Links
+                        </button>
+                     </h2>
+                     <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#klia-accordion">
+                        <div class="accordion-body">
+                           <a class="styled-link" href="https://www.kliaekspres.com/" target="_blank">Ticketing
+                              Portal</a></p>
+                           <a class="styled-link" href="https://www.kliaekspres.com/schedule/"
+                              target="_blank">Schedule</a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="accordion-item">
+                     <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                           data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                           Additional Information
+                        </button>
+                     </h2>
+                     <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#klia-accordion">
+                        <div class="accordion-body">
+                           <ul>
+                              <li>Operational hours: 5:00 AM - 12:00 AM</li>
+                              <li>Contact: +603-2267-8000</li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="divider"></div>
+      </section>
+
+      <!-- MyRapid -->
+      <section class="container transportation-details-container" id="My-Rapid">
+         <div class="row">
+            <div class="col-12 col-lg-5 ">
+               <img class="transportation-images" src="/src/resources/images/lrt.png" alt="">
+            </div>
+            <div class="col-12 col-lg-7">
+               <h2 class="transportation-type">My Rapid</h2>
+               <p class="message">
+                  &nbsp &nbspMyRapid is the integrated public transportation system in Malaysia that connects various cities and
+                  regions through buses, trains, and light rail. Operated by Prasarana Malaysia Berhad, it includes
+                  several key services such as the RapidKL light rail system, RapidPenang buses, and RapidKuantan buses,
+                  designed to provide convenient, efficient, and affordable travel options for commuters. The MyRapid
+                  system aims to enhance urban mobility and reduce traffic congestion by offering a reliable and
+                  accessible network of transportation services.
+               </p>
+               <div class="accordion" id="accordionExample">
+                  <div class="accordion-item">
+                     <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                           data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                           Helpful Links
+                        </button>
+                     </h2>
+                     <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                           <a class="styled-link" href="https://myrapid.com.my/" target="_blank">MyRapid Portal</a> <br>
+                           <a class="styled-link" href="https://shop.myrapid.com.my/" target="_blank">MyRapid Shop</a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="accordion-item">
+                     <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                           data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                           Additional Information
+                        </button>
+                     </h2>
+                     <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                           <ul>
+                              <li>Operational hours: 6:00 AM - 11:30 PM</li>
+                              <li>Contact: +603-7885-258</li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="divider"></div>
+      </section>
+
+      <!-- ETS -->
+      <section class="container transportation-details-container" id="ETS">
+         <div class="row">
+            <div class="col-12 col-lg-5 ">
+               <img class="transportation-images" src="/src/resources/images/etfr.jpeg" alt="">
+            </div>
+            <div class="col-12 col-lg-7">
+               <h2 class="transportation-type">ETS (Electric Train Service)</h2>
+               <p class="message">
+                  &nbsp &nbspThe ETS (Electric Train Service), managed by Keretapi Tanah Melayu (KTM), is a high-speed rail service
+                  launched in 2010 that connects major cities across Peninsular Malaysia, including Kuala Lumpur, Ipoh,
+                  and Butterworth. Known for its modern trains and efficient travel, the ETS significantly reduces
+                  journey times, such as the 4-hour trip between Kuala Lumpur and Butterworth. It offers comfortable
+                  seating, air-conditioning, and clean facilities for both Standard and Business class passengers, with
+                  Business class providing additional comfort. The service features frequent departures, catering to
+                  both business and leisure travelers, and its user-friendly ticketing system allows easy online and
+                  station purchases with real-time updates.
+               </p>
+               <div class="accordion" id="accordionExample">
+                  <div class="accordion-item">
+                     <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                           data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                           Helpful Links
+                        </button>
+                     </h2>
+                     <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                           <a class="styled-link" href="https://online.ktmb.com.my/" target="_blank">Ticketing
+                              Portal</a> <br>
+                           <a class="styled-link" href="https://www.ktmb.com.my/ETS.html" target="_blank">Routes &
+                              Details</a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="accordion-item">
+                     <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                           data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                           Additional Information
+                        </button>
+                     </h2>
+                     <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                           <ul>
+                              <li>Operational hours: 5:00 AM - 11:30 PM</li>
+                              <li>Contact: +603-2267-1200</li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="divider"></div>
+      </section>
+
+      <!-- KTM -->
+      <section class="container transportation-details-container" id="KTM-komuter">
+         <div class="row">
+            <div class="col-12 col-lg-5 ">
+               <img class="transportation-images" src="/src/resources/images/komuter.png" alt="ktm-komuter">
+            </div>
+            <div class="col-12 col-lg-7">
+               <h2 class="transportation-type">KTM Komuter</h2>
+               <p class="message">
+                  &nbsp &nbspKTM Komuter, operated by Keretapi Tanah Melayu (KTM), is a vital part of Malaysia's rail network,
+                  providing commuter services since 1995. It connects Kuala Lumpur with nearby towns such as Seremban,
+                  Rawang, and Port Klang through two main lines: the Seremban Line and the Port Klang Line. The service
+                  is designed for urban and suburban commuters, featuring frequent trains with comfortable seating and
+                  modern amenities. Ticketing is accessible via single-journey tickets, monthly passes, and reloadable
+                  cards, available at stations, online, or through the KTM mobile app, which offers real-time updates on
+                  schedules and fares.
+               </p>
+               <div class="accordion" id="accordionExample">
+                  <div class="accordion-item">
+                     <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                           data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                           Helpful Links
+                        </button>
+                     </h2>
+                     <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                           <a class="styled-link" href="https://online.ktmb.com.my/" target="_blank">Ticketing
+                              Portal</a><br>
+                           <a class="styled-link" href="https://www.ktmb.com.my/Komuter.html" target="_blank">Routes &
+                              Details</a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="accordion-item">
+                     <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                           data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                           Additional Information
+                        </button>
+                     </h2>
+                     <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                           <ul>
+                              <li>Operational hours: 5:00 AM - 11:30 PM</li>
+                              <li>Contact: +603-2267-1200</li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="divider"></div>
+      </section>
+
+      <section class="container transportation-details-container" id="KTM-intercity">
+         <div class="row">
+            <div class="col-12 col-lg-5 ">
+               <img class="transportation-images" src="/src/resources/images/ktm.png" alt="">
+            </div>
+            <div class="col-12 col-lg-7">
+               <h2 class="transportation-type">KTM Intercity</h2>
+               <p class="message">
+                  &nbsp &nbspKTM Intercity, managed by Keretapi Tanah Melayu (KTM), is a long-distance rail service connecting key
+                  cities and towns across Peninsular Malaysia, including Kuala Lumpur, Butterworth, Padang Besar, and
+                  Johor Bahru. Launched to improve regional travel, it offers a reliable and comfortable option for both
+                  business and leisure travelers. The network includes the East Coast Line, linking Kuala Lumpur to
+                  cities like Kuantan and Kota Bharu, and the Northern Line, extending to Perlis and Kedah. Ticketing is
+                  simple with options for single-journey, return, and discount passes, available at stations, online, or
+                  through the mobile app, which also provides real-time schedule and service updates.
+               </p>
+               <div class="accordion" id="accordionExample">
+                  <div class="accordion-item">
+                     <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                           data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                           Helpful Links
+                        </button>
+                     </h2>
+                     <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                           <a class="styled-link" href="https://online.ktmb.com.my/" target="_blank">Ticketing
+                              Portal</a><br>
+                           <a class="styled-link" href="https://www.ktmb.com.my/Intercity.html" target="_blank">Routes &
+                              Details</a>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="accordion-item">
+                     <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                           data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                           Additional Information
+                        </button>
+                     </h2>
+                     <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                           <ul>
+                              <li>Operational hours: 5:00 AM - 11:59 PM</li>
+                              <li>Contact: +603-2267-1200</li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+   </main>
+   <my-footer></my-footer>
+</body>
+</html>

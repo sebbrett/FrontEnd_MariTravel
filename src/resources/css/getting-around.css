@@ -1,0 +1,77 @@
+
+#intro-img-container {
+   position: relative;
+   height: 500px;
+}
+
+#intro-img {
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
+}
+
+#intro-overlay {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: rgba(0, 0, 0, 0.5);
+   position: absolute;
+   bottom: 0px;
+   top: 0px;
+   left: 0px;
+   right: 0px;
+}
+
+#intro-overlay h1 {
+   color: white;
+   font-size: 50px;
+   font-weight: 700;
+}
+
+.message {
+   font-size: 20px;
+   text-align: justify;
+}
+
+#intro-message {
+   padding: 20px 30px;
+}
+
+.transportation-details-container {
+   margin-bottom: 60px;
+}
+
+.divider {
+   margin-top: 30px;
+   border-bottom-style: solid;
+   border-bottom-width: 1px;
+   border-bottom-color: rgba(0, 0, 0, 0.7);
+}
+
+.transportation-type {
+   font-weight: 700;
+}
+
+.transportation-images {
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
+   border-radius: 15px;
+}
+
+.accordion-header .accordion-button {
+   background-color: rgb(35, 192, 103);
+   border: none;
+   transition: all 0.2s, ease;
+   font-size: 20px;
+   color: white;
+   font-weight: 500;
+}
+
+.accordion-button:not(.collapsed) {
+   opacity: 0.8;
+}
+
+.accordion-body {
+   font-size: 20px;
+}

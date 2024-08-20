@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>SignIn</title>
+   <!-- Favicon -->
+   <link rel="icon" type="image/x-icon" href="/src/resources/images/website-logo.png">
+   <!-- Font -->
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;700;800;900&display=swap" rel="stylesheet">
+   <!-- Authentication -->
+   <script type="module" src="/src/controllers/sign-in.js"></script>
+   <!-- CSS -->
+   <link rel="stylesheet" href="/src/resources/css/sign-in.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+
+<body>
+   <div id="login-container">
+      <div id="login-pane">
+         <div id="mari-travel">
+            <img id="mari-travel-logo" src="/src/resources/images/website-logo.png" alt="favicon">
+            <p>MariTravel</p>
+         </div>
+         <h2>Unlock more features as a member</h2>
+         <p id="prompt-input-label">Sign in with your email</p>
+         <form id="sign-in-form">
+            <input id="email-input" type="email" placeholder="Email" required>
+            <div id="password-container">
+               <input id="password-input" type="password" placeholder="Password" required>
+               <i class="fa-solid fa-eye" id="show-password"></i>
+            </div>
+            <input id="sign-in-btn" type="submit" value="Sign in">
+         </form>
+         <p id="error-message"></p>
+         <p id="not-member-label">Not a member</p>
+         <div id="divider">or continue with</div>
+         <div id="login-with-others-container">
+            <button class="login-with-other-btn" id="google-login-btn">
+               <img id="google-logo" src="/src/resources/images/google-logo.png" alt="Google Logo"> Google
+            </button>
+         </div>
+         <p>By creating an account, you agree to our privacy policies and terms of use.</p>
+      </div>
+      <div>
+         <div>
+            <img id="deco-img" src="/src/resources/images/twin-tower.jpg" alt="twin-tower">
+         </div>
+      </div>
+   </div>
+</body>
+</html>

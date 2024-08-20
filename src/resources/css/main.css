@@ -1,0 +1,15 @@
+* {
+   box-sizing: border-box !important; /* Include padding and border for width and height*/
+   margin: 0 ;
+   border: 0 ;
+}
+
+body {
+   font-family: 'Poppins',sans-serif !important;
+   padding-top: 55px;
+}
+
+a {
+   text-decoration: none;
+}
+

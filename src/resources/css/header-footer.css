@@ -1,0 +1,138 @@
+.my-navbar {
+   font-family: 'Poppins', sans-serif;
+   background-color: white;
+   z-index: 100;
+}
+
+#homeTab {
+   display: flex;
+   flex-direction: row;
+   align-items: flex-start;
+   cursor: pointer;
+   height: 30px;
+   p {
+      color: black;
+      font-size: 25px;
+      font-weight: 800;
+   }
+   #logo {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+   }
+}
+
+#homeTab:hover {
+   opacity: 0.6;
+}
+
+#profile-pic {
+   width: 40px;
+   height: 40px;
+   object-fit: cover;
+   cursor: pointer;
+   display: none;
+   border-radius: 50%;
+}
+
+#profile-pic:hover{
+   opacity: 0.5;
+}
+
+#profile-pic-dropdown {
+   left: auto !important; 
+   right: 0; 
+   transform: translateX(-6px); 
+}
+
+#sign-in-btn{
+   border: none;
+   color: white;
+   font-size: 14px;
+   font-weight: 500;
+   padding: 9px 20px;
+   border-radius: 50px;
+   transition: 0.3s background-color;
+   cursor: pointer;
+   margin-left: 5px;
+   margin-right: 5px;
+   background-color: #36b3c9;
+}
+
+#sign-in-btn:hover {
+   opacity: 0.6;
+}
+
+#sign-out-btn {
+   cursor: pointer;
+}
+
+#sign-out-btn:hover {
+   background-color: lightgray;
+}
+
+.img-thumbnail {
+   border: none !important;
+}
+
+.navbar-toggler {
+   border: none !important;
+}
+
+.navbar-toggler:focus,
+.btn-close:focus {
+   box-shadow: none !important;
+   outline: none !important;
+}
+
+.nav-link {
+   color: #666777 !important;
+   font-weight: bold !important;
+   position: relative !important;
+}
+
+.nav-link:hover {
+   color: #000 !important;
+}
+
+@media (min-width: 991px) {
+   .nav-link::before {
+      content: "";
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 0;
+      height: 2px;
+      background-color: #009970;
+      visibility: hidden;
+      transition: 0.3s ease-in-out;
+   }
+
+   .nav-link:hover::before,
+   .nav-link.active::before {
+      width: 100%;
+      visibility: visible;
+   }
+}
+
+footer { 
+   margin-top: 50px;
+   padding-top: 30px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   background-color: #36b3c9 !important;
+   color: white !important;
+}
+
+#footer-title {
+   font-weight: 600 !important;
+}
+
+#footer-statement {
+   text-align: center;
+   font-weight: 500 !important;
+   font-size: 20px;
+}
